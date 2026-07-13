@@ -1,4 +1,4 @@
-# 🥭 ackerman's MangoWM Config
+# 🥭 MangoWM Config xD
 
 Personal config for [MangoWM](https://mangowm.github.io/) — AMD.
 
