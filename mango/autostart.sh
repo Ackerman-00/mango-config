@@ -10,4 +10,4 @@ wl-paste --type text --watch cliphist store >/dev/null 2>&1 &
 wl-paste --type text --watch xclip -selection clipboard >/dev/null 2>&1 &
 
 # bridge: Wayland -> X11 (images - x11 App fix)
-/home/ackerman/.config/mango/scripts/clipboard-image-bridge.sh &
+~/.config/mango/scripts/clipboard-image-bridge.sh &
